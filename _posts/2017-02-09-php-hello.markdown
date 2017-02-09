@@ -9,4 +9,6 @@ tags:
     - PHP
 ---
 
-JavaScript 有着很奇怪的命名史。
+###`#`Hello XiaoZhi
+
+>欢迎小侄来到我的博客，留个言吧！
