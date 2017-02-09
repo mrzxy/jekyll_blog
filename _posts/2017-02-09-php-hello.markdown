@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Hello 2017"
-subtitle:   "Hello World, Hello Blog"
+title:      "Hello XiaoZhi"
+subtitle:   "新年快乐"
 date:       2017-02-09
 author:     "paul"
 header-img: "img/post-bg-2015.jpg"
@@ -9,6 +9,5 @@ tags:
     - PHP
 ---
 
-###`#`Hello XiaoZhi
+#### 欢迎小侄来到我的博客，留个言吧！
 
->欢迎小侄来到我的博客，留个言吧！
